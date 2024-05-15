@@ -4,7 +4,7 @@ import { ModeToggle } from '@/components/mode-toggle'
 
 const Header = () => {
   return (
-    <header className="flex gap-4 mt-8">
+    <header className="flex gap-4 mt-8 w-[80%] mx-auto max-w-[70rem]">
       <div className="relative">
         <Search className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
         <Input
