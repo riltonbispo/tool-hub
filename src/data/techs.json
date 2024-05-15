@@ -1,0 +1,136 @@
+{
+  "techs": [
+    {
+      "name": "React",
+      "bio": "Biblioteca JavaScript para construir interfaces de usuário.",
+      "description": "React é uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário interativas. É mantida pelo Facebook e por uma comunidade de desenvolvedores individuais e empresas.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png",
+      "tags": ["UI Framework", "Component-Based", "Declarative", "JavaScript"]
+    },
+    {
+      "name": "Vue.js",
+      "bio": "Framework progressivo para construção de interfaces de usuário.",
+      "description": "Vue.js é um framework progressivo para construir interfaces de usuário. É projetado desde o início para ser adotável incrementalmente, o que significa que você pode usar apenas as partes necessárias em seu projeto, sem a necessidade de adotar o framework por completo.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vue.js_Logo.svg/1280px-Vue.js_Logo.svg.png",
+      "tags": ["UI Framework", "Progressive", "JavaScript"]
+    },
+    {
+      "name": "Node.js",
+      "bio": "Ambiente de execução JavaScript server-side.",
+      "description": "Node.js é um ambiente de execução JavaScript que permite executar JavaScript no servidor. Ele usa o motor V8 JavaScript do Google Chrome e fornece um conjunto de bibliotecas para criar aplicativos da web escaláveis e rápidos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
+      "tags": ["JavaScript", "Server-Side", "Runtime", "V8"]
+    },
+    {
+      "name": "GraphQL",
+      "bio": "Linguagem de consulta para sua API.",
+      "description": "GraphQL é uma linguagem de consulta para APIs e um tempo de execução para executar essas consultas com seus dados existentes. Ele foi desenvolvido pelo Facebook em 2012 e lançado como código aberto em 2015.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png",
+      "tags": ["API", "Query Language", "Runtime", "Facebook"]
+    },
+    {
+      "name": "TailwindCSS",
+      "bio": "Estrutura CSS utilitária de baixo nível.",
+      "description": "Tailwind CSS é uma estrutura CSS utilitária de baixo nível para criar designs personalizados sem sair do HTML. Ele fornece classes pré-construídas para tarefas comuns de design, como espaçamento, dimensionamento, cores e tipografia.",
+      "image": "",
+      "tags": ["CSS Framework", "Utility-First", "Design System"]
+    },
+    {
+      "name": "Angular",
+      "bio": "Plataforma para construção de aplicativos web.",
+      "description": "Angular é uma plataforma e framework para construção de aplicativos web de uma única página (SPAs) e aplicativos web responsivos. Ele é mantido pelo Google e por uma comunidade de desenvolvedores ativos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png",
+      "tags": ["UI Framework", "Google", "Single-Page Application"]
+    },
+    {
+      "name": "Svelte",
+      "bio": "Framework de construção de interfaces de usuário.",
+      "description": "Svelte é um framework de construção de interfaces de usuário que compila suas aplicações para código JavaScript otimizado durante a fase de compilação. Ele se diferencia de frameworks tradicionais como React e Vue, que fazem a maioria do trabalho no navegador.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png",
+      "tags": ["UI Framework", "Compiler", "JavaScript"]
+    },
+    {
+      "name": "GitHub",
+      "bio": "Plataforma de hospedagem de código-fonte e controle de versão usando Git.",
+      "description": "GitHub é uma plataforma de hospedagem de código-fonte e controle de versão usando Git. Ele permite que você e outras pessoas trabalhem juntas em projetos de qualquer lugar.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1280px-Octicons-mark-github.svg.png",
+      "tags": ["Version Control", "Collaboration", "Git"]
+    },
+    {
+      "name": "Jira",
+      "bio": "Ferramenta de gerenciamento de projetos e rastreamento de problemas.",
+      "description": "Jira é uma ferramenta de gerenciamento de projetos e rastreamento de problemas que permite planejar, rastrear e gerenciar todo o seu trabalho em um único lugar.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_logo.svg/1280px-Jira_logo.svg.png",
+      "tags": ["Project Management", "Issue Tracking"]
+    },
+    {
+      "name": "Figma",
+      "bio": "Ferramenta de design de interface de usuário baseada em navegador.",
+      "description": "Figma é uma ferramenta de design de interface de usuário baseada em navegador que permite criar, colaborar e prototipar designs de forma eficiente.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1280px-Figma-logo.svg.png",
+      "tags": ["UI Design", "Prototyping"]
+    },
+    {
+      "name": "Postman",
+      "bio": "Plataforma de colaboração para desenvolvimento de API.",
+      "description": "Postman é uma plataforma de colaboração para desenvolvimento de API que permite aos desenvolvedores criar, testar e documentar APIs de forma rápida e fácil.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postman_icon.png/1280px-Postman_icon.png",
+      "tags": ["API Development", "Testing"]
+    },
+    {
+      "name": "Docker",
+      "bio": "Plataforma para desenvolvimento, envio e execução de aplicativos em contêineres.",
+      "description": "Docker é uma plataforma para desenvolvimento, envio e execução de aplicativos em contêineres. Ele permite que você empacote seu aplicativo com todas as suas dependências em um contêiner.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png",
+      "tags": ["Containerization", "Deployment"]
+    },
+    {
+      "name": "Firebase",
+      "bio": "Plataforma de desenvolvimento de aplicativos móveis e web.",
+      "description": "Firebase é uma plataforma de desenvolvimento de aplicativos móveis e web que fornece ferramentas e infraestrutura para ajudar você a criar aplicativos de alta qualidade.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png",
+      "tags": ["Backend as a Service", "Realtime Database"]
+    },
+    {
+      "name": "Linux",
+      "bio": "Família de sistemas operacionais de código aberto baseados no kernel Linux.",
+      "description": "Linux é uma família de sistemas operacionais de código aberto baseados no kernel Linux. Ele é utilizado em uma ampla variedade de dispositivos, desde servidores e supercomputadores até dispositivos móveis e eletrodomésticos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png",
+      "tags": ["Operating System", "Open Source"]
+    }
+  ],
+  "tags": [
+    "UI Framework",
+    "Component-Based",
+    "Declarative",
+    "JavaScript",
+    "Progressive",
+    "Server-Side",
+    "Runtime",
+    "V8",
+    "API",
+    "Query Language",
+    "Facebook",
+    "CSS Framework",
+    "Utility-First",
+    "Design System",
+    "Google",
+    "Single-Page Application",
+    "Compiler",
+    "Version Control",
+    "Collaboration",
+    "Git",
+    "Project Management",
+    "Issue Tracking",
+    "UI Design",
+    "Prototyping",
+    "API Development",
+    "Testing",
+    "Containerization",
+    "Deployment",
+    "Backend as a Service",
+    "Realtime Database",
+    "Operating System",
+    "Open Source"
+  ]
+}
