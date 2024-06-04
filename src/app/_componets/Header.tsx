@@ -3,20 +3,20 @@
 import { Search } from 'lucide-react'
 import { Input } from '@/components/ui/input'
 import { ModeToggle } from '@/components/mode-toggle'
-import { useState } from 'react';
+import { useState } from 'react'
 
 type HeaderProps = {
-  handleSearch: (term: string) => void;
-};
+  handleSearch: (term: string) => void
+}
 
 const Header = ({ handleSearch }: HeaderProps) => {
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState('')
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    const value = event.target.value;
-    setSearchTerm(value);
-    handleSearch(value);
-  };
+    const value = event.target.value
+    setSearchTerm(value)
+    handleSearch(value)
+  }
 
   return (
     <header className="flex gap-4 mt-8 mx-auto max-w-[70rem] mb-14">
@@ -35,4 +35,4 @@ const Header = ({ handleSearch }: HeaderProps) => {
   )
 }
 
-export default Header;
+export default Header

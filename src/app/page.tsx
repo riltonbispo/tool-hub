@@ -1,6 +1,6 @@
 'use client'
 
-import { useState } from 'react';
+import { useState } from 'react'
 import { Badge } from '@/components/ui/badge'
 import {
   Accordion,
@@ -17,16 +17,16 @@ import Header from '@/app/_componets/Header'
 
 export default function Home() {
 
-  const [selectedTag, setSelectedTag] = useState(null);
-  const [searchTerm, setSearchTerm] = useState('');
+  const [selectedTag, setSelectedTag] = useState(null)
+  const [searchTerm, setSearchTerm] = useState('')
 
   const handleTagClick = (tag: any) => {
-    setSelectedTag(tag === selectedTag ? null : tag);
-  };
+    setSelectedTag(tag === selectedTag ? null : tag)
+  }
 
   const handleSearch = (term: string) => {
-    setSearchTerm(term);
-  };
+    setSearchTerm(term)
+  }
 
   return (
     <main className="w-[80%] mx-auto max-w-[70rem] mt-10 mb-32">
