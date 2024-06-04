@@ -1,5 +1,4 @@
 import { ThemeProvider } from '@/components/theme-provider'
-import Header from '@/app/_componets/Header'
 
 import './globals.css'
 
@@ -17,7 +16,6 @@ export default function RootLayout({
             enableSystem
             disableTransitionOnChange
           >
-            <Header />
             {children}
           </ThemeProvider>
         </body>

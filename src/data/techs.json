@@ -5,132 +5,199 @@
       "bio": "Biblioteca JavaScript para construir interfaces de usuário.",
       "description": "React é uma biblioteca JavaScript declarativa, eficiente e flexível para a criação de interfaces de usuário interativas. É mantida pelo Facebook e por uma comunidade de desenvolvedores individuais e empresas.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png",
-      "tags": ["UI Framework", "Component-Based", "Declarative", "JavaScript"]
+      "tags": ["Front-end", "JavaScript"],
+      "documentation": "https://reactjs.org/docs/getting-started.html",
+      "github": "https://github.com/facebook/react"
     },
     {
       "name": "Vue.js",
       "bio": "Framework progressivo para construção de interfaces de usuário.",
       "description": "Vue.js é um framework progressivo para construir interfaces de usuário. É projetado desde o início para ser adotável incrementalmente, o que significa que você pode usar apenas as partes necessárias em seu projeto, sem a necessidade de adotar o framework por completo.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Vue.js_Logo.svg/1280px-Vue.js_Logo.svg.png",
-      "tags": ["UI Framework", "Progressive", "JavaScript"]
+      "image": "https://static-00.iconduck.com/assets.00/vue-js-icon-2048x1766-btrgkrhi.png",
+      "tags": ["Front-end", "JavaScript"],
+      "documentation": "https://vuejs.org/v2/guide/",
+      "github": "https://github.com/vuejs/vue"
     },
     {
       "name": "Node.js",
       "bio": "Ambiente de execução JavaScript server-side.",
       "description": "Node.js é um ambiente de execução JavaScript que permite executar JavaScript no servidor. Ele usa o motor V8 JavaScript do Google Chrome e fornece um conjunto de bibliotecas para criar aplicativos da web escaláveis e rápidos.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png",
-      "tags": ["JavaScript", "Server-Side", "Runtime", "V8"]
+      "tags": ["JavaScript", "Server-Side", "Back-end", "API"],
+      "documentation": "https://nodejs.org/en/docs/",
+      "github": "https://github.com/nodejs/node"
     },
     {
       "name": "GraphQL",
       "bio": "Linguagem de consulta para sua API.",
       "description": "GraphQL é uma linguagem de consulta para APIs e um tempo de execução para executar essas consultas com seus dados existentes. Ele foi desenvolvido pelo Facebook em 2012 e lançado como código aberto em 2015.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1280px-GraphQL_Logo.svg.png",
-      "tags": ["API", "Query Language", "Runtime", "Facebook"]
+      "tags": ["API", "Back-end", "Front-end"],
+      "documentation": "https://graphql.org/learn/",
+      "github": "https://github.com/graphql/graphql-js"
     },
     {
       "name": "TailwindCSS",
       "bio": "Estrutura CSS utilitária de baixo nível.",
       "description": "Tailwind CSS é uma estrutura CSS utilitária de baixo nível para criar designs personalizados sem sair do HTML. Ele fornece classes pré-construídas para tarefas comuns de design, como espaçamento, dimensionamento, cores e tipografia.",
-      "image": "",
-      "tags": ["CSS Framework", "Utility-First", "Design System"]
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png",
+      "tags": ["CSS", "Front-end"],
+      "documentation": "https://tailwindcss.com/docs",
+      "github": "https://github.com/tailwindlabs/tailwindcss"
     },
     {
       "name": "Angular",
       "bio": "Plataforma para construção de aplicativos web.",
       "description": "Angular é uma plataforma e framework para construção de aplicativos web de uma única página (SPAs) e aplicativos web responsivos. Ele é mantido pelo Google e por uma comunidade de desenvolvedores ativos.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png",
-      "tags": ["UI Framework", "Google", "Single-Page Application"]
+      "tags": ["Front-end", "JavaScript"],
+      "documentation": "https://angular.io/docs",
+      "github": "https://github.com/angular/angular"
     },
     {
       "name": "Svelte",
       "bio": "Framework de construção de interfaces de usuário.",
       "description": "Svelte é um framework de construção de interfaces de usuário que compila suas aplicações para código JavaScript otimizado durante a fase de compilação. Ele se diferencia de frameworks tradicionais como React e Vue, que fazem a maioria do trabalho no navegador.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1280px-Svelte_Logo.svg.png",
-      "tags": ["UI Framework", "Compiler", "JavaScript"]
+      "tags": ["Front-end", "JavaScript"],
+      "documentation": "https://svelte.dev/docs",
+      "github": "https://github.com/sveltejs/svelte"
     },
     {
       "name": "GitHub",
       "bio": "Plataforma de hospedagem de código-fonte e controle de versão usando Git.",
       "description": "GitHub é uma plataforma de hospedagem de código-fonte e controle de versão usando Git. Ele permite que você e outras pessoas trabalhem juntas em projetos de qualquer lugar.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1280px-Octicons-mark-github.svg.png",
-      "tags": ["Version Control", "Collaboration", "Git"]
+      "tags": ["Controle de Versão", "Git"],
+      "documentation": "https://docs.github.com/en",
+      "github": "https://github.com/github"
     },
     {
       "name": "Jira",
       "bio": "Ferramenta de gerenciamento de projetos e rastreamento de problemas.",
       "description": "Jira é uma ferramenta de gerenciamento de projetos e rastreamento de problemas que permite planejar, rastrear e gerenciar todo o seu trabalho em um único lugar.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_logo.svg/1280px-Jira_logo.svg.png",
-      "tags": ["Project Management", "Issue Tracking"]
+      "image": "https://seeklogo.com/images/J/jira-logo-FD39F795A7-seeklogo.com.png",
+      "tags": ["Projetos"],
+      "documentation": "https://support.atlassian.com/jira-software-cloud/docs/",
+      "github": "https://github.com/atlassian/jira"
     },
     {
       "name": "Figma",
       "bio": "Ferramenta de design de interface de usuário baseada em navegador.",
       "description": "Figma é uma ferramenta de design de interface de usuário baseada em navegador que permite criar, colaborar e prototipar designs de forma eficiente.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1280px-Figma-logo.svg.png",
-      "tags": ["UI Design", "Prototyping"]
+      "tags": ["Design"],
+      "documentation": "https://help.figma.com/hc/en-us",
+      "github": "https://github.com/figma"
     },
     {
       "name": "Postman",
       "bio": "Plataforma de colaboração para desenvolvimento de API.",
       "description": "Postman é uma plataforma de colaboração para desenvolvimento de API que permite aos desenvolvedores criar, testar e documentar APIs de forma rápida e fácil.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Postman_icon.png/1280px-Postman_icon.png",
-      "tags": ["API Development", "Testing"]
+      "image": "https://cdn.worldvectorlogo.com/logos/postman.svg",
+      "tags": ["API", "Teste"],
+      "documentation": "https://learning.postman.com/docs/getting-started/introduction/",
+      "github": "https://github.com/postmanlabs/postman-app-support"
     },
     {
       "name": "Docker",
       "bio": "Plataforma para desenvolvimento, envio e execução de aplicativos em contêineres.",
       "description": "Docker é uma plataforma para desenvolvimento, envio e execução de aplicativos em contêineres. Ele permite que você empacote seu aplicativo com todas as suas dependências em um contêiner.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1280px-Docker_%28container_engine%29_logo.svg.png",
-      "tags": ["Containerization", "Deployment"]
+      "image": "https://cdn.worldvectorlogo.com/logos/docker-4.svg",
+      "tags": ["Container", "DevOps"],
+      "documentation": "https://docs.docker.com/get-started/",
+      "github": "https://github.com/docker/docker"
     },
     {
       "name": "Firebase",
       "bio": "Plataforma de desenvolvimento de aplicativos móveis e web.",
       "description": "Firebase é uma plataforma de desenvolvimento de aplicativos móveis e web que fornece ferramentas e infraestrutura para ajudar você a criar aplicativos de alta qualidade.",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png",
-      "tags": ["Backend as a Service", "Realtime Database"]
+      "image": "https://cdn.icon-icons.com/icons2/2699/PNG/512/firebase_logo_icon_171157.png",
+      "tags": ["Back-end"],
+      "documentation": "https://firebase.google.com/docs",
+      "github": "https://github.com/firebase/firebase-js-sdk"
     },
     {
       "name": "Linux",
       "bio": "Família de sistemas operacionais de código aberto baseados no kernel Linux.",
       "description": "Linux é uma família de sistemas operacionais de código aberto baseados no kernel Linux. Ele é utilizado em uma ampla variedade de dispositivos, desde servidores e supercomputadores até dispositivos móveis e eletrodomésticos.",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png",
-      "tags": ["Operating System", "Open Source"]
+      "tags": ["Sistema Operacional"],
+      "documentation": "https://www.kernel.org/doc/html/latest/",
+      "github": "https://github.com/torvalds/linux"
+    },
+    {
+      "name": "Python",
+      "bio": "Linguagem de programação interpretada, de alto nível e de propósito geral.",
+      "description": "Python é uma linguagem de programação interpretada, de alto nível e de propósito geral. Ela é conhecida por sua sintaxe clara e por permitir a programação orientada a objetos, procedural e funcional.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png",
+      "tags": ["Linguagem", "Back-end"],
+      "documentation": "https://docs.python.org/3/",
+      "github": "https://github.com/python/cpython"
+    },
+    {
+      "name": "Django",
+      "bio": "Framework web de alto nível para desenvolvimento ágil em Python.",
+      "description": "Django é um framework web de alto nível que permite o desenvolvimento ágil e limpo em Python. Ele é projetado para ajudar desenvolvedores a criar aplicativos web rapidamente, com menos código e melhor design.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/1280px-Django_logo.svg.png",
+      "tags": ["Full-stack", "Python"],
+      "documentation": "https://docs.djangoproject.com/en/stable/",
+      "github": "https://github.com/django/django"
+    },
+    {
+      "name": "Ruby",
+      "bio": "Linguagem de programação dinâmica, reflexiva e orientada a objetos.",
+      "description": "Ruby é uma linguagem de programação dinâmica, reflexiva e orientada a objetos. Ela é conhecida por sua sintaxe natural e elegante que facilita a leitura e a escrita de código.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1280px-Ruby_logo.svg.png",
+      "tags": ["Linguagem", "Back-end"],
+      "documentation": "https://www.ruby-lang.org/en/documentation/",
+      "github": "https://github.com/ruby/ruby"
+    },
+    {
+      "name": "Ruby on Rails",
+      "bio": "Framework web completo escrito em Ruby.",
+      "description": "Ruby on Rails é um framework web completo escrito em Ruby. Ele segue o padrão de arquitetura MVC (Model-View-Controller) e é conhecido por facilitar o desenvolvimento rápido de aplicativos web robustos.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1280px-Ruby_On_Rails_Logo.svg.png",
+      "tags": ["Full-stack", "Ruby"],
+      "documentation": "https://guides.rubyonrails.org/",
+      "github": "https://github.com/rails/rails"
+    },
+    {
+      "name": "Kubernetes",
+      "bio": "Plataforma de orquestração de contêineres open-source.",
+      "description": "Kubernetes é uma plataforma de orquestração de contêineres open-source que automatiza a implantação, escala e operações de contêineres em clusters de servidores.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1024px-Kubernetes_logo_without_workmark.svg.png",
+      "tags": ["Container", "DevOps", "Docker"],
+      "documentation": "https://kubernetes.io/docs/",
+      "github": "https://github.com/kubernetes/kubernetes"
+    },
+    {
+      "name": "Terraform",
+      "bio": "Ferramenta de infraestrutura como código para provisionamento de recursos.",
+      "description": "Terraform é uma ferramenta de infraestrutura como código (IaC) que permite definir e provisionar recursos de infraestrutura de maneira segura e eficiente.",
+      "image": "https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png",
+      "tags": ["Infra", "DevOps"],
+      "documentation": "https://www.terraform.io/docs/index.html",
+      "github": "https://github.com/hashicorp/terraform"
     }
   ],
   "tags": [
-    "UI Framework",
-    "Component-Based",
-    "Declarative",
+    "Front-end",
     "JavaScript",
-    "Progressive",
     "Server-Side",
-    "Runtime",
-    "V8",
+    "Back-end",
     "API",
-    "Query Language",
-    "Facebook",
-    "CSS Framework",
-    "Utility-First",
-    "Design System",
-    "Google",
-    "Single-Page Application",
-    "Compiler",
-    "Version Control",
-    "Collaboration",
+    "CSS",
+    "Controle de Versão",
     "Git",
-    "Project Management",
-    "Issue Tracking",
-    "UI Design",
-    "Prototyping",
-    "API Development",
-    "Testing",
-    "Containerization",
-    "Deployment",
-    "Backend as a Service",
-    "Realtime Database",
-    "Operating System",
-    "Open Source"
+    "Projetos",
+    "Design",
+    "Teste",
+    "Container",
+    "DevOps",
+    "Sistema Operacional",
+    "Linguagem",
+    "Full-stack",
+    "Infra"
   ]
 }
