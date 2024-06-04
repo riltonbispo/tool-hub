@@ -16,7 +16,6 @@ import { Button } from '@/components/ui/button'
 import Header from '@/app/_componets/Header'
 
 export default function Home() {
-
   const [selectedTag, setSelectedTag] = useState(null)
   const [searchTerm, setSearchTerm] = useState('')
 
